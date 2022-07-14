@@ -1,0 +1,2 @@
+Oficina Aula 5
+Nesta oficina, manteremos o contexto estudado desde o início do curso. Assim, você deve implementar o código para construir uma tela de cadastro de check-in de hotel, utilizando os controles apresentados na aula. Os campos que a tela deve ter são os mesmos campos que já utilizamos anteriormente. Use o modelo ilustrado pela imagem a seguir para se basear ao criar sua tela.
